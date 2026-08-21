@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0485-max-consecutive-ones](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0697-degree-of-an-array](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/0697-degree-of-an-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1470-shuffle-the-array](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/1470-shuffle-the-array) |
