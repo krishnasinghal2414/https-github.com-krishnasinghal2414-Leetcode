@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0551-student-attendance-record-i](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0771-jewels-and-stones](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/0771-jewels-and-stones) |
 ## Array
 |  |
