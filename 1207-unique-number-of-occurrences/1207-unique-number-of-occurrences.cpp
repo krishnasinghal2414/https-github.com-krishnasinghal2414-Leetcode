@@ -5,8 +5,12 @@ public:
         for(int i : arr){
             mp[i]++;
         }
-        unordered_set<int> s;
-        for(auto x:mp) s.insert(x.second);
-        return mp.size()==s.size();            
+        unordered_set<int> st;
+        for(auto &it:mp){
+            int freq=it.second;
+            if(st.find(freq)!=st.end()) return false;
+            st.insert(freq);
+        }
+        return true;          
     }
 };
