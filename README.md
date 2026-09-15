@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0551-student-attendance-record-i](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0771-jewels-and-stones](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/0771-jewels-and-stones) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Array
 |  |
@@ -157,11 +158,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/0392-is-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/0392-is-subsequence) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/0011-container-with-most-water) |
 | [0976-largest-perimeter-triangle](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Quicksort
 |  |
