@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2574-left-and-right-sum-differences](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2748-number-of-beautiful-pairs](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2784-check-if-array-is-good](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/2784-check-if-array-is-good) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Linked List
 |  |
