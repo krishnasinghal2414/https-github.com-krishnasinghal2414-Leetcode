@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0155-min-stack](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -347,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/0229-majority-element-ii) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
