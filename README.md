@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/0055-jump-game) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Prefix Sum
@@ -361,4 +364,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/0155-min-stack) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
