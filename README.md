@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0392-is-subsequence](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0451-sort-characters-by-frequency](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1306-jump-game-iii](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/1306-jump-game-iii) |
 ## Queue
 |  |
@@ -377,4 +379,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
