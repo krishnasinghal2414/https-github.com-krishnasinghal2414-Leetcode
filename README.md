@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Bit Manipulation
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-count-commas-in-range](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3959-check-good-integer](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/3959-check-good-integer) |
 ## Sorting
 |  |
@@ -199,12 +201,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Enumeration
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/1952-three-divisors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3886-sum-of-sortable-integers](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Number Theory
 |  |
 | ------- |
