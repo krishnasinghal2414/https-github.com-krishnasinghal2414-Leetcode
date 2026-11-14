@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/1871-jump-game-vii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Greedy
 |  |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Merge Sort
