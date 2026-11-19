@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2748-number-of-beautiful-pairs](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2784-check-if-array-is-good](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3536-maximum-product-of-two-digits](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/krishnasinghal2414/https-github.com-krishnasinghal2414-Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
